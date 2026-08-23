@@ -1,4 +1,4 @@
-# -full-stack-job-portal
+# job-portal Website
  # CareerConnect - Job Portal Landing Page
 
 A responsive job portal landing page built using only HTML, CSS, and JavaScript.
