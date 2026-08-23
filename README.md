@@ -1,7 +1,7 @@
 # job portal Website
- # CareerConnect - Job Portal Landing Page
+ # CareerConnect - Job Portal website
 
-A responsive job portal landing page built using only HTML, CSS, and JavaScript.
+A responsive job portal website built using only HTML, CSS, and JavaScript.
 
 ## Features
 - Responsive Navbar and Hero Section
